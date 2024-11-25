@@ -46,7 +46,7 @@ useEffect(() => {
         topics: [ethers.id("ProposalCreated((uint,address,string,address,uint)")],
     };
 
-    wssProvider.getLogs({ ...filter, fromBlock: 18185090 }).then((events) => {
+    wssProvider.getLogs({ ...filter, fromBlock: 6262507 }).then((events) => {
         setCount(events.length + 1);
     });
 
