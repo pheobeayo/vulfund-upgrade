@@ -9,7 +9,6 @@ import {
 } from "@web3modal/ethers/react";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import LoadingSpinner from "../../components/Loader/LoadingSpinner";
 
 const Register = () => {
   const [selectedFile, setSelectedFile] = useState();
@@ -140,7 +139,7 @@ const Register = () => {
               readOnly
             />
           ) : (
-            <div className="relative mb-4">
+            <div className="relative mb-4 w-full">
               <input
                 type="file"
                 required
@@ -154,7 +153,6 @@ const Register = () => {
               {isUploading && (
                 <div className="absolute inset-0 flex items-center justify-center bg-gray-200 bg-opacity-50 rounded-lg">
                   <div className="loader">
-                    <LoadingSpinner />
                   </div>
                 </div>
               )}

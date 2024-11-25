@@ -3,7 +3,28 @@ import Banner from "../../components/Banner";
 import { GiReceiveMoney } from "react-icons/gi";
 
 const AllDonations = () => {
-   
+    // const { chainId, address } = useWeb3ModalAccount();
+    // const { walletProvider } = useWeb3ModalProvider();
+    // const [donateHistory, setDonateHistory] = useState();
+    
+//   async function handleUserDonation() {
+//     if (!isSupportedChain(chainId)) return console.error("Wrong network");
+//     const readWriteProvider = getProvider(walletProvider);
+//     const signer = await readWriteProvider.getSigner();
+
+//     const contract = getVulfundContract(signer);
+
+//     try {
+//       const res = await contract.getDonator(address);
+//       setDonateHistory(res);
+//     } catch (error) {
+//       console.log(error)
+//     } 
+//   }
+
+//   useEffect(() => {
+//     handleUserDonation();
+//   }, []);
 
 
   return (

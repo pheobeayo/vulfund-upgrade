@@ -13,6 +13,7 @@ const FundingRequests = () => {
     }
     return url || "";
   };
+  console.log(allProposals)
 
   return (
     <section className="bg-[#02080B]">
