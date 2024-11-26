@@ -25,17 +25,17 @@ Vulfund addresses these issues by:
 
 
 ### Technology Stack
-•	Blockchain: For secured operations, the smart contract audited and deployed on base sepolia on:
+•	Blockchain: For secured operations, the smart contract audited and deployed on Linea sepolia on:
 
 ```bash
 
-VulfundNFT deployed at: https://sepolia.basescan.org/address/0x4D0F973F1bA5a4b3C3BBEBf39194975a12800b26#code
+VulfundNFT deployed at: 0x25d3195984A693886103312eA3FA53D738c951B7
 
-VulfundV2 deployed at: https://sepolia.basescan.org/address/0x9e44244Bf8a2d917a9974d73cc5f4abC0Cab04e6#code
+VulfundV2 deployed at: 0x951fAa8B5E040DdC3f0489D00CF1E66be2355b25
 
 ```
 
-•   Tools: Solidity, Bash, Foundry, Base sepolia,
+•   Tools: Solidity, Bash, Foundry, Linea sepolia,
 
 •	Frontend Framework: React, Tailwind CSS, Apollo Client, Graph, Ethers, Web3modal, Foundry, Vite
 
@@ -45,12 +45,12 @@ VulfundV2 deployed at: https://sepolia.basescan.org/address/0x9e44244Bf8a2d917a9
 ## Repository: 
 ``` bash
 
-https://github.com/pheobeayo/vulfund-version2
+https://github.com/pheobeayo/vulfund-upgrade
 
 ```
 ### MVP Deployment: 
 ```bash
-vulfund-version2.vercel.app
+https://vulfund-upgrade.vercel.app/
 ```
 ### Demo Video: 
 ```bash
