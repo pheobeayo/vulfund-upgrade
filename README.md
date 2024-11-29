@@ -55,13 +55,13 @@ https://vulfund-upgrade.vercel.app/
 ### Demo Video: 
 ```bash
 
-https://www.youtube.com/watch?v=XPHgL_jPNzI
+https://youtu.be/fLRrXQehDls
 
 ```
 ### Pitch Deck: 
 ```bash 
 
-https://www.canva.com/design/DAGR7GYNcJs/xObZX-i862LrdQ0NukQSOg/view?utm_content=DAGR7GYNcJs&utm_campaign=designshare&utm_medium=link&utm_source=editor 
+https://www.canva.com/design/DAGXy6-ciGI/wQBVTsrPIHTwuvheY5Hu3w/view?utm_content=DAGXy6-ciGI&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 
 ```
 
